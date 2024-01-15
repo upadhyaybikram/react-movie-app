@@ -12,5 +12,7 @@ This React project incorporates various features, including:
 - React Forms
 - OMDb API
 
-
+## Screenshots 
 ![Alt text](ta_home.jpeg)
+![Alt text](ta_team.png)
+![Alt text](ta_contact.png)
