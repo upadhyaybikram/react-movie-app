@@ -1,6 +1,6 @@
 # React Movie App 
 
-This project was bootstrapped with Create React App.
+This project was bootstrapped with [Create React App](https://create-react-app.dev/).
 
 ## App Description
 
