@@ -6,8 +6,7 @@ import Movie from "./components/Movie";
 import Search from "./components/Search";
 
 const OMDB_API_KEY = process.env.REACT_APP_OMDB_API_KEY;
-console.log(OMDB_API_KEY, 'API KEY');
-const MOVIE_API_URL = `https://www.omdbapi.com/?s=man&apikey=${OMDB_API_KEY}`;
+const MOVIE_API_URL = `https://www.omdbapi.com/?s=man&apikey=4a3b711b`;
 
 const initialState = {
     loading: true,
