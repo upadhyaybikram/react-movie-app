@@ -48,7 +48,6 @@ const App = () => {
         fetch(url)
             .then((response) => response.json())
             .then((jsonResponse) => {
-                console.log("Movie API URL Response:", jsonResponse);
                 if (jsonResponse.Response === "True") {
                     dispatch({
                         type: "SEARCH_MOVIES_SUCCESS",
